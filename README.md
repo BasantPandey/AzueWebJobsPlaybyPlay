@@ -78,13 +78,13 @@ Read Web Application Setting values from inside the Azure WebJobs.
     - http://tenent-admin.sharepoint.com/_layouts/15/AppInv.aspx
 
 - Permission XML
-``
+```xml
 <AppPermissionRequests AllowAppOnlyPolicy="true">
 <AppPermissionRequest Scope="http://sharepoint/content/tenant" Right="FullControl" />
 <AppPermissionRequest Scope="http://sharepoint/social/tenant" Right="Read" />
 <AppPermissionRequest Scope="http://sharepoint/taxonomy " Right="Read" />
 </AppPermissionRequests>
-``
+```
 
 
 [![(7/7) WebJobs:  Register SharePoint App](https://i.ytimg.com/vi_webp/boa84OOdu08/sddefault.webp)](https://i.ytimg.com/vi_webp/boa84OOdu08 "(7/7) WebJobs:  Register SharePoint App")
