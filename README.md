@@ -1,6 +1,9 @@
 # Play by Play Series on Azure Web Jobs
 
-Following are the the topics has been covered
+Play by Play Series contains the list of videos that help you to learn the WebJobs from the scratch that includes Azure Web jobs, SharePoint and PowerShell.  
+
+- GitHub library code: https://github.com/BasantPandey/AzureWebJobsPlaybyPlay
+- Want to learn the site creation process using Azure Web Jobs, please check out my you tube series: https://www.youtube.com/playlist?list=PLRt3t4Jmzutl4pNYiaOFf1DMVVHGycDOm
 
 ## Introduction with Web Jobs?
 
